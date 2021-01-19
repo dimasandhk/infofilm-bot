@@ -1,7 +1,7 @@
 {
   "name": "direct-wa-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Merupakan sebuah Bot Telegram yang menggunakan OMDB Api untuk memberi detail Informasi sebuah film",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "node-telegram-bot-api": "^0.51.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimas-Ngoding/infofilm-bot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Dimas-Ngoding/infofilm-bot/issues"
+  },
+  "homepage": "https://github.com/Dimas-Ngoding/infofilm-bot#readme"
 }
