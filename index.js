@@ -1,6 +1,7 @@
 require("dotenv").config();
+const idD = process.env;
 let telegram = require("node-telegram-bot-api");
-const client = new telegram("1486132860:AAFTPk49K9Z3grQfyb6bETteq9SxjlFfCJQ", {
+const client = new telegram(idD, {
   polling: true,
 });
 
