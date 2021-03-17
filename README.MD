@@ -1,3 +1,3 @@
 # InfoFilm-Bot
-Merupakan sebuah Bot Telegram yang menggunakan OMDB Api untuk memberi detail Informasi sebuah film
 
+Infofilm-bot is a telegram bot that can inform a detailed film that is requested via the Open Movie Database API. This bot is made with Javascript (node js). This bot is intentionally not hosted / activated on telegram as this repository is for my case study only
